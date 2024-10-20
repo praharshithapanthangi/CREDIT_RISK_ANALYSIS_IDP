@@ -1,0 +1,6 @@
+This project focuses on enhancing credit risk assessment in the financial sector through the application of machine learning algorithms.
+Utilizing a comprehensive dataset of credit card applications from Kaggle, the study explores various classification models such as Logistic Regression, Support Vector Machines,
+Decision Trees, Random Forests, K-Nearest Neighbors, Gradient Boosting, Neural Networks, and AdaBoost.
+The project involves systematic data preprocessing and model evaluation based on metrics including accuracy, precision, 
+recall, and F1-score. Key features influencing credit risk predictions are identified, showcasing the potential of advanced machine learning techniques 
+to aid financial institutions in making informed lending decisions and improving risk management strategies.
